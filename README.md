@@ -1,1 +1,1 @@
-# ForPytorch
+# Is for learning Pytorch use.
